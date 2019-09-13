@@ -37,7 +37,7 @@ class PlayingCardView: UIView {
     }
     
     private var cornerString: NSAttributedString {
-        return centeredAttributedString(rankString+"\n"suit, fontSize: 0.0)
+        return centeredAttributedString(rankString+"\n"+suit, fontSize: 0.0)
     }
     
     override func draw(_ rect: CGRect) {
