@@ -15,6 +15,7 @@
 		7009FFC92322960500B6A764 /* PlayingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7009FFC82322960500B6A764 /* PlayingCard.swift */; };
 		7009FFCB23229B7800B6A764 /* PlayingCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7009FFCA23229B7800B6A764 /* PlayingCardDeck.swift */; };
 		702E637B232ADCB70056047F /* PlayingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702E637A232ADCB70056047F /* PlayingCardView.swift */; };
+		70567DD72376038200F6F514 /* CardBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70567DD62376038200F6F514 /* CardBehavior.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		7009FFC82322960500B6A764 /* PlayingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCard.swift; sourceTree = "<group>"; };
 		7009FFCA23229B7800B6A764 /* PlayingCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardDeck.swift; sourceTree = "<group>"; };
 		702E637A232ADCB70056047F /* PlayingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardView.swift; sourceTree = "<group>"; };
+		70567DD62376038200F6F514 /* CardBehavior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardBehavior.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				7009FFB72322957F00B6A764 /* ViewController.swift */,
+				70567DD62376038200F6F514 /* CardBehavior.swift */,
 				702E637A232ADCB70056047F /* PlayingCardView.swift */,
 				7009FFC82322960500B6A764 /* PlayingCard.swift */,
 				7009FFCA23229B7800B6A764 /* PlayingCardDeck.swift */,
@@ -157,6 +160,7 @@
 				7009FFC92322960500B6A764 /* PlayingCard.swift in Sources */,
 				702E637B232ADCB70056047F /* PlayingCardView.swift in Sources */,
 				7009FFB62322957F00B6A764 /* AppDelegate.swift in Sources */,
+				70567DD72376038200F6F514 /* CardBehavior.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
